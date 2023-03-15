@@ -1,5 +1,9 @@
 [
   {
+    "package": "RcppRoll",
+    "oncran": true
+  },
+  {
     "package": "sourcetools",
     "oncran": true
   }
